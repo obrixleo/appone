@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FiloPoke TCG",
+  title: "Pearl Collectors",
   description: "Pokémon singles and sealed product",
 };
 
